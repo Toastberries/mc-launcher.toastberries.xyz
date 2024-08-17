@@ -1,0 +1,5 @@
+seeInjuredNames = true
+injuredAlwaysNamed = true
+
+[secret]
+doAprilFools = false

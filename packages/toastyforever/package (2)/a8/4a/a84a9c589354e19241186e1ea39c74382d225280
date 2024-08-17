@@ -1,0 +1,99 @@
+[general]
+	applicationID = 1262997084861104140
+	enabled = true
+	configScreen = false
+
+[init]
+	enabled = true
+	description = "Currently Loading..."
+	state = ""
+	largeImageKey = ["logo"]
+	largeImageText = "It's minecraft %mcver%, but better"
+	smallImageKey = ["%playerhead%"]
+	smallImageText = ""
+	buttons = []
+
+[main_menu]
+	enabled = true
+	description = "Currently Idle"
+	state = ""
+	largeImageKey = ["logo"]
+	largeImageText = "It's minecraft %mcver%, but better"
+	smallImageKey = ["%playerhead%"]
+	smallImageText = ""
+	buttons = []
+
+[server_list]
+	enabled = true
+	description = "Currently Idle"
+	state = ""
+	largeImageKey = ["logo"]
+	largeImageText = "It's minecraft %mcver%, but better"
+	smallImageKey = ["%playerhead%"]
+	smallImageText = ""
+	buttons = []
+
+[realms_list]
+	enabled = true
+	description = "Currently Idle"
+	state = ""
+	largeImageKey = ["logo"]
+	largeImageText = "It's minecraft %mcver%, but better"
+	smallImageKey = ["%playerhead%"]
+	smallImageText = ""
+	buttons = []
+
+[join_game]
+	enabled = true
+	description = "Currently Loading..."
+	state = ""
+	largeImageKey = ["logo"]
+	largeImageText = "It's minecraft %mcver%, but better"
+	smallImageKey = ["%playerhead%"]
+	smallImageText = ""
+	buttons = []
+
+[single_player]
+	enabled = true
+	description = "Playing Singleplayer"
+	state = ""
+	largeImageKey = ["logo"]
+	largeImageText = "It's minecraft %mcver%, but better"
+	smallImageKey = ["%playerhead%"]
+	smallImageText = ""
+	buttons = []
+
+[multi_player]
+	enabled = true
+	description = "Playing Multiplayer"
+	state = ""
+	largeImageKey = ["logo"]
+	largeImageText = "It's minecraft %mcver%, but better"
+	smallImageKey = ["%playerhead%"]
+	smallImageText = ""
+	buttons = []
+
+[realms]
+	enabled = true
+	description = "Playing Multiplayer"
+	state = ""
+	largeImageKey = ["logo"]
+	largeImageText = "It's minecraft %mcver%, but better"
+	smallImageKey = ["%playerhead%"]
+	smallImageText = ""
+	buttons = []
+
+[generic]
+	description = ""
+	state = ""
+	largeImageKey = ["logo"]
+	largeImageText = "It's minecraft %mcver%, but better"
+	smallImageKey = ["%playerhead%"]
+	smallImageText = ""
+	buttons = []
+
+[custom]
+	enabled = false
+
+[dimension_overrides]
+	enabled = false

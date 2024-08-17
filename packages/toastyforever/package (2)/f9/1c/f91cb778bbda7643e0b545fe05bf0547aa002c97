@@ -1,0 +1,36 @@
+; NOTICE: This file does nothing if utility.yeet_recipes is disabled.
+
+; This is really only an INI because Fabrication's entire config framework is
+; designed for INIs. Just list recipe IDs below, no matter what workstation
+; they're for, and they will be destroyed with a precision gigawatt laser.
+
+; The value is ignored, but is recommended to be set to "true" in case it's
+; given meaning later.
+
+; Example: Prevent sandstone from being crafted.
+;[minecraft:]
+;sandstone=true
+
+; Example with a weirder ID: Prevent dark oak saplings from being transformed
+; into oak saplings with a Botania mana pool with an Alchemy Catalyst.
+;[botania:]
+;mana_infusion/dark_oak_sapling_to_oak_sapling=true
+
+[amarite:]
+amethyst_bricks=true
+amethyst_bricks_stonecutting=ture
+amethyst_pillar=true
+amethyst_pillar_stonecutting=true
+amethyst_pillar_stonecutting_raw=true
+chiseled_amethyst=ture
+chiseled_amethyst_stonecutting=ture
+chiseled_amethyst_stonecutting_raw=ture
+amethyst_brick_stairs=ture
+amethyst_brick_stairs_stonecutting=ture
+amethyst_brick_stairs_stonecutting_raw=ture
+amethyst_brick_slab=ture
+amethyst_brick_slab_stonecutting=ture
+amethyst_brick_slab_stonecutting_raw=ture
+amethyst_brick_wall=ture
+amethyst_brick_wall_stonecutting=ture
+amethyst_brick_wall_stonecutting_raw=ture

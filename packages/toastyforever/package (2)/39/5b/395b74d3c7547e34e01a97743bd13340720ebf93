@@ -1,0 +1,32 @@
+{
+	"worldgen": {
+		"generate_in_villages": false
+	},
+	"teleportation_cost": {
+		"cost_type": "ITEM",
+		"cost_item": "minecraft:ender_pearl",
+		"base_cost": 1,
+		"cost_per_block_distance": 0.0075,
+		"cost_multiplier_between_dimensions": 64.0
+	},
+	"consume_infinite_knowledge_scroll_on_use": true,
+	"global_mode_toggle_permission_levels": "OP",
+	"teleportation_cooldown": {
+		"cooldown_ticks_when_hurt": 600,
+		"cooldown_ticks_from_abyss_watcher": 200,
+		"cooldown_ticks_from_pocket_wormhole": 200,
+		"cooldown_ticks_from_local_void": 200,
+		"cooldown_ticks_from_void_totem": 200,
+		"cooldown_ticks_from_waystone": 200
+	},
+	"disable_teleportation_from_dimensions": [
+		"minecraft:overworld",
+		"minecraft:the_nether",
+		"minecraft:the_end"
+	],
+	"disable_teleportation_to_dimensions": [
+		"minecraft:overworld",
+		"minecraft:the_nether",
+		"minecraft:the_end"
+	]
+}

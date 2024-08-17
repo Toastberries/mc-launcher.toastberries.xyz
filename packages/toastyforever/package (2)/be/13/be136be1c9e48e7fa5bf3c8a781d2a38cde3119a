@@ -1,0 +1,27 @@
+{
+	"basics": {
+		"keyBindings": {
+			"favoriteKeybind": {
+				"keyCode": "key.keyboard.v",
+				"modifier": 0
+			}
+		}
+	},
+	"appearance": {
+		// Declares whether entry panel is scrolled.
+		"scrollingEntryListWidget": true
+	},
+	"functionality": {
+		// Declares whether mob effects should be on the left side instead of the right side.
+		"leftSideMobEffects": true
+	},
+	"advanced": {
+		"tooltips": {
+			// Declares whether REI should append mod names to entries.
+			"appendModNames": true,
+			// Declares whether favorites tooltip should be displayed.
+			"displayFavoritesTooltip": false,
+			"displayIMEHints": true
+		}
+	}
+}

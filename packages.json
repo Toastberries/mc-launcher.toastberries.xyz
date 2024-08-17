@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Toasty's Forever Pack",
+      "name" : "ToastyForever",
+      "version" : "2.2.1",
+      "location" : "packages/toastyforever/package.json",
+      "priority" : 100
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+version:3465
+onboardAccessibility:false
+skipMultiplayerWarning:true
+tutorialStep:none
+joinedFirstServer:true
+hideBundleTutorial:true
+resourcePacks:["vanilla","lambdabettergrass/default","file/VanillaTweaks.zip","file/Chat Reporting Helper.zip","continuity/glass_pane_culling_fix","continuity/default"]
+fov:0.5
+guiScale:3
+darkMojangStudiosBackground:true
+key_key.origins.secondary_active:key.keyboard.h
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.azurelib.reload:key.keyboard.unknown
+key_key.azurelib.scope:key.keyboard.unknown
+key_key.resolutioncontrol.settings:key.keyboard.unknown
+key_key.camerautils.zoom:key.keyboard.c
+key_key.camerautils.third_person_cam_1:key.keyboard.unknown
+key_key.camerautils.third_person_cam_2:key.keyboard.unknown

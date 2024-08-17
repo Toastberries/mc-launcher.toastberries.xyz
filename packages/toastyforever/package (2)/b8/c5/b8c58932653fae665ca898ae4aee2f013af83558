@@ -1,0 +1,36 @@
+{
+  "graveConfig": {
+    "storeXp": false,
+    "claimPriority": "INVENTORY",
+    "graveRobbing": {
+      "afterTime": 0,
+      "tellWhoRobbed": false
+    },
+    "graveTimeout": {
+      "enabled": true,
+      "afterTime": 1,
+      "timeUnit": "DAYS"
+    },
+    "generateOnLastGroundPos": true,
+    "generationMaxDistance": {
+      "x": 15,
+      "y": 15,
+      "z": 15
+    },
+    "dropItemsIfDestroyed": true
+  },
+  "compatConfig": {
+    "defaultNumismaticDropRule": "DROP"
+  },
+  "extraFeatures": {
+    "soulboundEnchant": {
+      "enabled": true,
+      "isTreasure": true,
+      "isAvailableForEnchantedBookOffer": true,
+      "isAvailableForRandomSelection": false
+    },
+    "graveCompass": {
+      "receiveOnRespawn": true
+    }
+  }
+}
